@@ -1,0 +1,5 @@
+[SSH]
+username = <username>
+
+[<service_acronym>]
+email = <email_address>
